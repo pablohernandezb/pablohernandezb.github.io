@@ -10,7 +10,7 @@ const Awards = ({ data }) => (
       <h3>Grants and Awards</h3>
     </div>
     {data.map((prize) => (
-      <Job data={prize} key={`${prize.name}-${prize.date}`} />
+      <Prize data={prize} key={`${prize.name}-${prize.date}`} />
     ))}
   </div>
 );
