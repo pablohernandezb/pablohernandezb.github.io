@@ -7,8 +7,10 @@ import Education from '../components/Resume/Education';
 import Experience from '../components/Resume/Experience';
 import Skills from '../components/Resume/Skills';
 import Courses from '../components/Resume/Courses';
+import Awards from '../components/Resume/Awards';
 import References from '../components/Resume/References';
 
+import awards from '../data/resume/awards';
 import courses from '../data/resume/courses';
 import degrees from '../data/resume/degrees';
 import work from '../data/resume/work';
@@ -20,13 +22,14 @@ const sections = {
   Experience: () => <Experience data={work} />,
   Skills: () => <Skills skills={skills} categories={categories} />,
   Courses: () => <Courses data={courses} />,
+  Awards: () => <Awards data={awards} />,
   References: () => <References />,
 };
 
 const Resume = () => (
   <Main
     title="Resume"
-    description="Pablo Hernandez Borges's Resume. Smile Identity, Arthena, Matroid, YC, Skeptical Investments, Stanford ICME, Planet, and Facebook."
+    description="Pablo Hernandez Borges's Resume."
   >
     <article className="post" id="resume">
       <header>

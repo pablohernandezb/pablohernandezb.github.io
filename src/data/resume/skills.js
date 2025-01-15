@@ -175,7 +175,7 @@ const skills = [
     category: ['World Languages'],
   },
   {
-    title: 'Spanish',
+    title: 'English',
     competency: 5,
     category: ['World Languages'],
   },
