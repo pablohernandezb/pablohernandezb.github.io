@@ -22,10 +22,15 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Pablo. I am a{' '}
+        Hello! I craft models to understand our world. I am a{' '}
         Computer Engineer from <a href="http://www.usb.ve/">Universidad Simon Bolivar</a>, with a PhD in Political Science from {' '}
         <a href="https://www.ttu.edu/">Texas Tech University</a>. Previously, I
         was an Instructor at the <a href="https://www.depts.ttu.edu/politicalscience/">Department of Political Science</a> at TTU, currently on the job market.
+      </p>
+      <p>
+        My research focuses on authoritarianism, legislatures, democratic backsliding, and innovations in political regimes. I try to understand, why and how do 
+        autocrats and leaders employ tools in their arsenal to expand their power? This includes ways to innovate and subvert democratic innovations to increase
+        their chances of surival.
       </p>
       <ul className="actions">
         <li>

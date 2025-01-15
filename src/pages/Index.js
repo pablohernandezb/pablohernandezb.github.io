@@ -6,7 +6,7 @@ import Main from '../layouts/Main';
 const Index = () => (
   <Main
     description={
-      "Pablo Hernandez Borges's personal website. PhD in Political Science from TTU, "
+      "Pablo Hernandez Borges's personal website. PhD in Political Science from TTU | "
       + 'Data Analyst | Data Scientist | Video Games.'
     }
   >
