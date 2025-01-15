@@ -1,11 +1,11 @@
 {
-  "name": "pablohernandezb.github.io",
+  "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://pablohernandezb.github.io",
+  "homepage": "https://pablohernandezb.dev",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pablohernandezb/pablohernandezb.github.io"
+    "url": "https://github.com/pablohernandezb/pablohernandezb.github.io.git"
   },
   "engines": {
     "node": ">=16.x"
