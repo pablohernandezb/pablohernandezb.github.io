@@ -51,7 +51,7 @@ const courses = [
     title: 'Men, Culture, and Society II',
     number: 'CSA 312',
     link: '#',
-    university: 'Stanford',
+    university: 'Universidad Simon Bolivar',
   },
 ];
 
