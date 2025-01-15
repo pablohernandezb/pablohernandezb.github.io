@@ -14,11 +14,10 @@ const Index = () => (
       <header>
         <div className="title">
           <h2>
-            <Link to="/">About this site</Link>
+            <Link to="/">Welcome to my site!</Link>
           </h2>
           <p>
-            A beautiful, responsive, statically-generated, react application
-            written with modern Javascript.
+            PhD in Political Science with a background in Data Science.
           </p>
         </div>
       </header>
