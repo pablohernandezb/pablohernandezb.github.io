@@ -31,7 +31,7 @@ const work = [
     position: 'Independent Researcher',
     startDate: '2018-01-01',
     endDate: '2018-08-31',
-    summary: `Research assistant under the supervision of Dr. Iñaki Sagarzazu.`,
+    summary: 'Research assistant under the supervision of Dr. Iñaki Sagarzazu.',
     highlights: [
       'Data collection and archival work from the period 1979 to 1993 for the Executive Cabinet Composition Dataset for Venezuela.',
       'The aim of this project was to analyze cabinet rotation and coalition formation across presidential administrations in Venezuela.',
@@ -43,7 +43,7 @@ const work = [
     url: 'http://usb.ve',
     startDate: '2017-09-01',
     endDate: '2018-04-01',
-    summary: `Hired as a professor for the Departament of Social Sciences. Lecturer in basic courses for freshmen students.`,
+    summary: 'Hired as a professor for the Departament of Social Sciences. Lecturer in basic courses for freshmen students.',
     highlights: [
       'During the January-March 2018 trimester I taught CSA-311 "Men, Culture and Society I" and CSA-312 "Men, Culture and Society II".',
       'During the September-December 2017 I taught CSA-211 "Venezuela at the XXI Century: Culture and Society".',
@@ -55,7 +55,7 @@ const work = [
     url: 'https://usb.ve',
     startDate: '2014-12-01',
     endDate: '2016-12-01',
-    summary: `Implemented the final phase of the SIEVAPAO project, an employee peer-to-peer and rubric performance evaluation university-wide. I served under the Director of Human Capital Management Department`,
+    summary: 'Implemented the final phase of the SIEVAPAO project, an employee peer-to-peer and rubric performance evaluation university-wide. I served under the Director of Human Capital Management Department',
     highlights: [
       'Implement IT solutions for human resources evaluations.',
       'Develop modules for specifics tasks such as reporting and summarizing the evaluations for managers and directors within the department.',
