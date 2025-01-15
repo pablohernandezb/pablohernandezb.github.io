@@ -30,7 +30,7 @@ const SideBar = () => (
       <p>
         My research focuses on authoritarianism, legislatures, democratic backsliding, and
         innovations in political regimes. I try to understand, why and how do autocrats and
-        leaders employ tools in their arsenal to expand their power? This
+        leaders employ tools in their arsenal to expand their power. This
         includes ways to innovate and subvert democratic innovations to increase
         their chances of surival.
       </p>
