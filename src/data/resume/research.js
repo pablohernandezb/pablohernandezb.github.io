@@ -33,7 +33,7 @@ const research = [
     highlights: [
       'Candidate Appearance and Voter Evaluations. Lubbock, TX. January 2023 - May 2023. Design of portraits and flyers resembling candidate\'s advertisement for an experimental survey. Supervised by Dr. Steven Perry and Dr. Matt Lamb.',
       'Colombian Planning Secretariat Dataset. Lubbock, TX. January 2021 - July 2021. Data collection of Development Plans and Planning Directors of Colombia\'s Mayoralties from 2018 to 2021, compiled by Dr. Ricardo Bello-Gomez.',
-  	],
+    ],
   },
   {
     name: 'Conferences',
@@ -51,7 +51,7 @@ const research = [
       'Annual Texas Tech Hispanic/Latinx Research and Creativity Symposium at TTU, Lubbock, TX: 2024, 2023, 2020.',
       'Annual Graduate School Poster Competition at TTU, Lubbock, TX: 2022, 2021, 2020, and 2019.',
       'Arts and Humanities Graduate Student Research Conference at TTU, Lubbock, TX: 2021, 2020, and 2019',
-      'Cross-Disciplinary Doctoral Research Conference "United in Research" at TTU, Lubbock, TX (2021)', 
+      'Cross-Disciplinary Doctoral Research Conference "United in Research" at TTU, Lubbock, TX (2021)',
     ],
   },
 ];

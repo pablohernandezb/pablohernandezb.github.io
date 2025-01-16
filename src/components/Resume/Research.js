@@ -10,7 +10,7 @@ const Research = ({ data }) => (
       <h3>Research</h3>
     </div>
     {data.map((investigation) => (
-      <Job data={investigation} key={`${job.name}`} />
+      <Investigation data={investigation} key={`${investigation.name}`} />
     ))}
   </div>
 );
