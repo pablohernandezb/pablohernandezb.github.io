@@ -1,92 +1,39 @@
 # Intro
 
-I am the co-founder and CTO of [Promptfoo](https://promptfoo.dev), where we're building open-source tools to evaluate, find, and fix vulnerabilities in LLMs. Before Promptfoo, I was the VP of Engineering at [SmileID](https://www.usesmileid.com), where I led the development of tools that have helped over 170 million people in Africa gain access to financial services. I also co-founded [Arthena](https://arthena.com) and [Matroid](https://matroid.com).
-
-In my spare time, I enjoy investing in people and ideas through a [small venture fund](https://skepticalinvestments.biz), focusing on projects with high social impact. If you think I can be helpful to you or your cause, or if you're interested in collaborating, feel free to get in touch.
+I consider myself something in between of a Computer Engineer and a Political Scientist. Therefore, I am passionate about building models to understand our world, more speficically our social interactions and political phenomena. Throughout my life, my passion for technology, politics and service have guided my actions and choices. In this page, there is a summary of some of those passions and activities, but I am always open to discuss more about them in person.
 
 # Some History
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand-new Packard Bell. It took years for me to send my first email.
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it, and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without my parents' permission). Over the next few years, I built several more, including one of the first audio modulated coils and one of the first DRSSTCs.
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have contributed to two more.
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-- 14 - 17, I played a lot of video games. My favorites included Counter-Strike Source, Command and Conquer 3, Halo 2, and Age of Empires II.
-- At 18, in the summer before college, my friends and I started playing [Muggle Quidditch](<https://en.wikipedia.org/wiki/Quidditch_(sport)>). We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association), including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on Facebook.
-- At 19, I took my first graduate course and published my first academic paper.
-- At 20, I co-authored a grant to build a satellite and managed a 60+ person team for the next two years. You can read more about that [here](https://ubnl.space/glados/).
+Since I was little, I have always been drawn to technology. It all started with my very old parents' computers, which I had access to thanks to their jobs in the oil industry. Moreover, wherever there was a computer, I installed video games. I still remember playing Test Drive on my grandpa's old i486. Growing up in Venezuela, I noticed that despite having a normal childhood as any other middle-class kid, our country and our political system was going the wrong way. In 1998, I was 13 years old when Chávez was elected for the first time as president of Venezuela. That is when things started going really bad, with a lot of effort while engaging in political activism as a student, I graduated as a Computer Engineer from [USB](http://usb.ve/), but felt I needed to do more. I started a master's degree in political science at my alma mater that I could not finish because of the political and economical situation of my country. Thanks to Dr. Iñaki Sagarzazu, I knew about Texas Tech University, they offered me a really good oportunity to pursue my MA and PhD degree's. The situation in my country has not improved since I arrived to the US in 2018, but I am determined to contribute in any way that I can with the training I received as a political scientist.
 
-Ask me in person for other stories that I'm afraid to share with the internet.
+My research is motivated by my normative believe that everybody has the right to democracy and freedom, especially in countries suffering humanitarian crises. I craft models to understand authoritarian dynamics, gender inequalities, elections patterns, and institutional designs. My main region of study is Latin American, but have collaborated and studied other regions of the world as well. Thanks to my cross-disciplinary training, I have been able to import methods from computer science into political science research, this also gave me the opportunity to mentor undergraduate and graduate research. 
+
+# Service and causes
+
+Along technology and politics, serving others is one of my major passions. From 2008 to 2012, I served as ambassador for [Fedora](https://fedoraproject.org/), I attended events as a spokeperson and open software activist, mainly launch parties and installation festivals. In my alma mater, I served as a Volunteer Forest Ranger from 2011, to 2015, where I participaed in reforestation and forest protection, tours for visitors, and volunteered at institutional support activities. Finally, after graduating, I continued helping my alma mater as part of the team at the [USB Alumni Association of America, Inc.](https://alumnusb.org/), a non-profit organization that has collected over 945,000 dollars since its foundation back in 2015, and handed over 65 students scholarhips and 200 professors awards. 
+
+Previously, during my undergarduate years at [USB](http://usb.ve/), I served as a Student Representatiev at FONDESIBO (a Student's Aid Fund); a Student Delegate at the Unievrsity's Assembly; and finally, I was the Substitute President of the Student Electoral Comission of the Student's Federation. In all of these roles I always represented my peers' needs of a fair and just education and services. More recently, at [TTU](https://ttu.edu/), I served as Treasurer of the Graduate Assemly (GA); Treasurer and Founder of the Venezuelan Student Association (VSA-TTU); and finally, I was a Senator representing the Graduate School at the Student Government Association (SGA-TTU). 
+
 
 # I Like
 
 - Running
-- Skiing
-- Sailing and the sea
 - Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
-
-# Travel / Geography
-
-- I am originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York City.
-- I've been to approximately 50 countries, some of which I have forgotten, many of which I would like to revisit.
-- In 2016, I visited Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited Canada, France, Italy, Israel, and the U.K.
-- In 2019, I visited Canada, England, France, and Switzerland.
-- In 2020, I traveled barely 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I continued remodeling an apartment.
-- In 2022, I switched jobs and visited the UK, France, Greece, Belgium, Luxembourg, Germany, and Kenya.
-- In 2023, I visited France, the UK, Ireland, and Rwanda.
-- I am an Oregon Trail II enthusiast.
+- Sci-Fi and Fantasy (novels, tv series, and movies)
+- Politics (shocking, right?)
+- Board games
+- Video Games (RTS, and RPG mainly)
+- Networking and community building
+- Soccer (we call it "Fútbol")
+- Baseball
+- The beach
+- Cooking (learning how to make soups)
+- Anime
 
 # Fun Facts
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me and a [01 Sakura Pigma Micron Pen](https://www.sakuraofamerica.com/product/pigma-micron/).
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on a skateboard or [bicycle](https://www.citibikenyc.com/) every single day.
-- I stack-rank coffee shops, restaurants, and every dog I see in New York.
-- I added this page because many people complained that my site was just my resume.
-
-# I Dream Of
-
-- Inspiring and feeling inspired.
-- Enabling a brighter future for everyone, regardless of political or socioeconomic status.
-- Treating every individual with genuine kindness and respect.
-- Staying curious.
-- Continually improving.
-- You not checking the commit history for earlier drafts of this file.
-
-# Websites from People I Admire
-
-- [Alex Peysakhovich](http://alexpeys.github.io/)
-- [Chris Lengerich](http://www.chrislengerich.com/)
-- [Chris Saad](https://www.chrissaad.com/)
-- [Duncan Tomlin](http://duncantomlin.com/)
-- [Ed Kearney](https://edkearney.com/)
-- [Hawley Moore](http://hawleymoore.com/)
-- [Holman Gao](https://golmansax.com/)
-- [Ian Webster](http://ianww.com/)
-- [Johanna Flato](https://www.johannaflato.com/)
-- [Judy Mou](http://www.judymou.com/)
-- [Judy Suh](https://www.judysuh.com/)
-- [Kristina Monakhova](https://kristinamonakhova.com/)
-- [Noah Trueblood](http://notrueblood.com/)
-- [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
-- [Will Holley](https://willholley.com/)
-
-If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me, and I'll add you.
+- I have been living for six years and half in the US without a car. That's right, only using a bycicle.
+- The favicon of this site is Dr. Manhattan's logo from Watchment, I believe it captures both my minimalistic nature and my passion for science.
+- Thanks to research conferences, friends, and family, I visited 20 states of the US, still less than half.
+- I am team Summer, so I will always prefer warm over cold weather.
+- I know the numbers in Korean because I practiced Tae Kwon Do when I was little.
