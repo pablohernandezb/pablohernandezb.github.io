@@ -9,8 +9,10 @@ import Skills from '../components/Resume/Skills';
 import Courses from '../components/Resume/Courses';
 import Awards from '../components/Resume/Awards';
 import Workshops from '../components/Resume/Workshops';
+import Research from '../components/Resume/Research';
 import References from '../components/Resume/References';
 
+import research from '../data/resume/research';
 import workshops from '../data/resume/workshops';
 import awards from '../data/resume/awards';
 import courses from '../data/resume/courses';
@@ -23,6 +25,7 @@ const sections = {
   Education: () => <Education data={degrees} />,
   Experience: () => <Experience data={work} />,
   Skills: () => <Skills skills={skills} categories={categories} />,
+  Research: () => <Research data={research} />,
   Workshops: () => <Workshops data={workshops} />,
   Courses: () => <Courses data={courses} />,
   Awards: () => <Awards data={awards} />,
