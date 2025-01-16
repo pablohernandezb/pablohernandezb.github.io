@@ -8,7 +8,7 @@ import Experience from '../components/Resume/Experience';
 import Skills from '../components/Resume/Skills';
 import Courses from '../components/Resume/Courses';
 import Awards from '../components/Resume/Awards';
-import Workshops from '../components/Resume/Workhops';
+import Workshops from '../components/Resume/Workshops';
 import References from '../components/Resume/References';
 
 import workshops from '../data/resume/workshops';

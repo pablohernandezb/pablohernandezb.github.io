@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import Training from './Workhops/Training';
+import Training from './Workshops/Training';
 
 const Workshops = ({ data }) => (
   <div className="workshops">
