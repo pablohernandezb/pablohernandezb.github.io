@@ -165,11 +165,6 @@ const skills = [
     category: ['Tools'],
   },
   {
-    title: 'GIMP/Inkscape',
-    competency: 4,
-    category: ['Tools'],
-  },
-  {
     title: 'Spanish',
     competency: 5,
     category: ['World Languages'],

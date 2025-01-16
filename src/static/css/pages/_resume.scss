@@ -70,6 +70,31 @@
     }
   }
 
+  .workshops {
+    .title {
+      text-align: center;
+    }
+    .training {
+      margin: 1em;
+      p {
+        margin: 0;
+      }
+    }
+  }
+
+  .training-container {
+    h4 {
+      margin-top: 2em;
+    }
+    .points {
+      li {
+        margin: 0;
+        padding: 0;
+        font-size: 0.9em;
+      }
+    }
+  }
+
   .courses {
     padding-top: 1.6em;
     .title {
