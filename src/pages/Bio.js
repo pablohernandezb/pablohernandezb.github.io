@@ -1,0 +1,40 @@
+import React, { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
+import Markdown from 'markdown-to-jsx';
+
+import Main from '../layouts/Main';
+
+const Bio = () => {
+  const [markdown, setMarkdown] = useState('');
+
+  useEffect(() => {
+    import('../data/bio.md').then((res) => {
+      fetch(res.default)
+        .then((r) => r.text())
+        .then(setMarkdown);
+    });
+  });
+
+  const count = markdown
+    .split(/\s+/)
+    .map((s) => s.replace(/\W/g, ''))
+    .filter((s) => s.length).length;
+
+  return (
+    <Main title="Bio" description="Learn about Pablo Hernandez Borges">
+      <article className="post markdown" id="bio">
+        <header>
+          <div className="title">
+            <h2>
+              <Link to="/bio">Bio</Link>
+            </h2>
+            <p>(in about {count} words)</p>
+          </div>
+        </header>
+        <Markdown>{markdown}</Markdown>
+      </article>
+    </Main>
+  );
+};
+
+export default Bio;

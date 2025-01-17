@@ -44,7 +44,7 @@ describe('renders the app', () => {
     expect(document.title).toBe('Pablo Hernandez Borges');
   });
 
-  it('can navigate to /about', async () => {
+  it('can navigate to /bio', async () => {
     expect.assertions(7);
     const aboutLink = document.querySelector(
       '#header > nav > ul > li:nth-child(1) > a',
@@ -53,8 +53,8 @@ describe('renders the app', () => {
     await act(async () => {
       await aboutLink.click();
     });
-    expect(document.title).toContain('About |');
-    expect(window.location.pathname).toBe('/about');
+    expect(document.title).toContain('Bio |');
+    expect(window.location.pathname).toBe('/bio');
     expect(window.scrollTo).toHaveBeenNthCalledWith(1, 0, 0);
     expect(global.fetch).toHaveBeenCalledTimes(1);
     expect(jsonMock).toHaveBeenCalledTimes(0);
@@ -99,4 +99,18 @@ describe('renders the app', () => {
     expect(document.title).toContain('Contact |');
     expect(window.location.pathname).toBe('/contact');
   });
+
+  it('can navigate to /about', async () => {
+    expect.assertions(3);
+    const aboutLink = document.querySelector(
+      '#header > nav > ul > li:nth-child(5) > a',
+    );
+    expect(aboutLink).toBeInTheDocument();
+    await act(async () => {
+      await aboutLink.click();
+    });
+    expect(document.title).toContain('About |');
+    expect(window.location.pathname).toBe('/about');
+  });
+
 });
