@@ -112,5 +112,4 @@ describe('renders the app', () => {
     expect(document.title).toContain('About |');
     expect(window.location.pathname).toBe('/about');
   });
-
 });
