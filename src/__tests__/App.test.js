@@ -87,10 +87,23 @@ describe('renders the app', () => {
     expect(window.location.pathname).toBe('/projects');
   });
 
-  it('can navigate to /contact', async () => {
+  it('can navigate to /posters', async () => {
     expect.assertions(3);
     const contactLink = document.querySelector(
       '#header > nav > ul > li:nth-child(4) > a',
+    );
+    expect(contactLink).toBeInTheDocument();
+    await act(async () => {
+      await contactLink.click();
+    });
+    expect(document.title).toContain('Posters |');
+    expect(window.location.pathname).toBe('/posters');
+  });
+
+  it('can navigate to /contact', async () => {
+    expect.assertions(3);
+    const contactLink = document.querySelector(
+      '#header > nav > ul > li:nth-child(5) > a',
     );
     expect(contactLink).toBeInTheDocument();
     await act(async () => {
@@ -103,7 +116,7 @@ describe('renders the app', () => {
   it('can navigate to /about', async () => {
     expect.assertions(3);
     const aboutLink = document.querySelector(
-      '#header > nav > ul > li:nth-child(5) > a',
+      '#header > nav > ul > li:nth-child(6) > a',
     );
     expect(aboutLink).toBeInTheDocument();
     await act(async () => {
