@@ -9,6 +9,9 @@ const Sheet = ({ data }) => (
         <h3>
           <a href={data.link}>{data.title}</a>
         </h3>
+        <h4>
+          {data.subtitle}
+        </h4>
         <time className="published">
           {dayjs(data.date).format('MMMM, YYYY')}
         </time>
@@ -26,6 +29,7 @@ const Sheet = ({ data }) => (
 Sheet.propTypes = {
   data: PropTypes.shape({
     title: PropTypes.string.isRequired,
+    subtitle: PropTypes.string,
     link: PropTypes.string,
     image: PropTypes.string.isRequired,
     date: PropTypes.string.isRequired,
