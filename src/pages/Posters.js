@@ -19,7 +19,7 @@ const Posters = () => (
       </header>
       <p>
         Some of these posters were made using <a href="https://www.latex-project.org/">LaTeX</a> on{' '}
-        <a href="https://www.overleaf.com/">Overleaf</a>; you can find the Latina Modern font{' '}
+        <a href="https://www.overleaf.com/">Overleaf</a>; you can find the Latin Modern font{' '}
         <a href="https://www.gust.org.pl/projects/e-foundry/latin-modern">here</a>.{' '}
         The ones with the big image in the middle are inspired by the <a href="https://osf.io/ef53g/">Better Poster Design</a> framework.
       </p>

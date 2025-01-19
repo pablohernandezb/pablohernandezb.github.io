@@ -1,15 +1,11 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Lorem Ipsum',
-    subtitle: 'Dolor Sit Amet',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'The Long Trace of Oil Money: A Social Network Analysis of corruption during the Bolivarian Revolution in Venezuela',
+    image: '/images/projects/project_long_trace.png',
+    date: '2021-05-01',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Using the Corruptometro dataset gathered by a team lead by Transparencia Venezuela.',
   },
 ];
 
