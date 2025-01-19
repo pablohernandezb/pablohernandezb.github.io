@@ -18,7 +18,10 @@ const Posters = () => (
         </div>
       </header>
       <p>
-        Most of them use the posters use the LaTeX font, you can find it <a href="https://www.gust.org.pl/projects/e-foundry/latin-modern">here</a>. The ones with the big image in the middle are inspired by the <a href="https://osf.io/ef53g/">Better Poster Design</a> framework.
+        Some of these posters were made using <a href="https://www.latex-project.org/">LaTeX</a> on{' '}
+        <a href="https://www.overleaf.com/">Overleaf</a>; you can find the Latina Modern font{' '}
+        <a href="https://www.gust.org.pl/projects/e-foundry/latin-modern">here</a>.{' '}
+        The ones with the big image in the middle are inspired by the <a href="https://osf.io/ef53g/">Better Poster Design</a> framework.
       </p>
       {data.map((poster) => (
         <Sheet data={poster} key={poster.title} />

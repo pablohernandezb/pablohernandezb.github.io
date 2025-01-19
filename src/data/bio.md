@@ -32,8 +32,8 @@ Along technology and politics, serving others is one of my major passions. From 
 
 # Fun Facts
 
-- Since I arrived to the US in 2018, I never had a car. That's right, I only been riding a bycicle.
-- The favicon of this site is Dr. Manhattan's logo from Watchment, I believe it captures both my minimalistic nature and my passion for science.
+- Since I arrived to the US in 2018, I never owned a car. That's right, I only have been riding a bycicle.
+- The favicon of this site is Dr. Manhattan's logo from Watchmen, I believe it captures both my minimalistic nature and my passion for science.
 - Thanks to research conferences, friends, and family, I visited 20 states of the US, still less than half.
 - I am team Summer, so I will always prefer warm over cold weather.
 - I know the numbers in Korean because I practiced Tae Kwon Do when I was little.
