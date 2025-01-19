@@ -32,7 +32,7 @@ const SideBar = () => (
         innovations in political regimes. I try to understand why and how autocrats and
         leaders employ tools in their arsenal to expand their power. This
         includes ways to innovate and subvert democratic innovations to increase
-        their chances of surival.
+        their chances of survival.
       </p>
       <ul className="actions">
         <li>
