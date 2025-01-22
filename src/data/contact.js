@@ -3,6 +3,7 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faOrcid } from '@fortawesome/free-brands-svg-icons/faOrcid';
 import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
 import { faBluesky } from '@fortawesome/free-brands-svg-icons/faBluesky';
+import { faSteam } from '@fortawesome/free-brands-svg-icons/faSteam';
 import { faFacebookF } from '@fortawesome/free-brands-svg-icons/faFacebookF';
 import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
@@ -34,6 +35,11 @@ const data = [
     link: 'https://bsky.app/profile/pablohernandezb.bsky.social',
     label: 'BlueSky',
     icon: faBluesky,
+  },
+  {
+    link: 'https://steamcommunity.com/id/pacehebor/',
+    label: 'Steam',
+    icon: faSteam,
   },
   {
     link: 'https://www.facebook.com/pablohernandezborges/',
