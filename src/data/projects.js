@@ -8,6 +8,14 @@ const data = [
     desc:
       'Using the Chavismo.inc dataset gathered by a team lead by Transparencia Venezuela.',
   },
+  {
+    title: 'The Crisis of Divided Government: The Effect of Democratic Backsliding on Legislative Oversight in Venezuela',
+    link: 'https://github.com/pablohernandezb/the-crisis-of-divided-government',
+    image: '/images/projects/project_crisis_divided_govt.png',
+    date: '2023-04-01',
+    desc:
+      'Using the V-Dem Project dataset, and Synthetic Control Method (SMC).',
+  },
 ];
 
 export default data;
