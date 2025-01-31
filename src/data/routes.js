@@ -5,8 +5,8 @@ const routes = [
     path: '/',
   },
   {
-    label: 'Bio',
-    path: '/bio',
+    label: 'About',
+    path: '/about',
   },
   {
     label: 'Resume',
@@ -23,10 +23,6 @@ const routes = [
   {
     label: 'Contact',
     path: '/contact',
-  },
-  {
-    label: 'About',
-    path: '/about',
   },
 ];
 
