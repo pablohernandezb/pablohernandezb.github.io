@@ -7,7 +7,7 @@ const Sheet = ({ data }) => (
     <article className="mini-post">
       <header>
         <h3>
-          <a href={data.link} target="_blank">{data.title}</a>
+          <a href={data.link}>{data.title}</a>
         </h3>
         <h4>
           {data.subtitle}
@@ -16,7 +16,7 @@ const Sheet = ({ data }) => (
           {dayjs(data.date).format('MMMM, YYYY')}
         </time>
       </header>
-      <a href={data.link} target="_blank" className="image">
+      <a href={data.link} className="image">
         <img src={`${process.env.PUBLIC_URL}${data.image}`} alt={data.title} />
       </a>
       <div className="description">
