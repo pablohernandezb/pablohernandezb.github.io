@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
+import ScrollToTopButton from '../components/Template/ScrollToTopButton';
 
 import Education from '../components/Resume/Education';
 import Experience from '../components/Resume/Experience';
@@ -55,6 +56,7 @@ const Resume = () => (
       {Object.entries(sections).map(([name, Section]) => (
         <Section key={name} />
       ))}
+      <ScrollToTopButton />
     </article>
   </Main>
 );
