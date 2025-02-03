@@ -1,7 +1,7 @@
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faOrcid } from '@fortawesome/free-brands-svg-icons/faOrcid';
-import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
+import { faXTwitter } from '@fortawesome/free-brands-svg-icons/faXTwitter';
 import { faBluesky } from '@fortawesome/free-brands-svg-icons/faBluesky';
 import { faSteam } from '@fortawesome/free-brands-svg-icons/faSteam';
 import { faFacebookF } from '@fortawesome/free-brands-svg-icons/faFacebookF';
@@ -27,9 +27,9 @@ const data = [
     icon: faOrcid,
   },
   {
-    link: 'https://twitter.com/pablohernandezb',
+    link: 'https://x.com/pablohernandezb',
     label: 'X',
-    icon: faTwitter,
+    icon: faXTwitter,
   },
   {
     link: 'https://bsky.app/profile/pablohernandezb.bsky.social',
