@@ -1,6 +1,7 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import PropTypes from 'prop-types';
 import { Helmet, HelmetProvider } from 'react-helmet-async';
+import {initLightboxJS} from 'lightbox.js-react';
 
 import Analytics from '../components/Template/Analytics';
 import Navigation from '../components/Template/Navigation';
