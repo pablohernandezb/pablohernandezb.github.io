@@ -33,7 +33,7 @@ const Posters = () => (
         <img alt="" src="/images/posters/poster_19th_ttu_PCHB.png" />
       </SlideshowLightbox>
       <h3>
-        Reaching My Potential (2021-2024)
+        The Better Years (2021-2024)
       </h3>
       <SlideshowLightbox className="images" showThumbnails theme="lightbox">
         <img alt="" src="/images/posters/poster_20th_ttu_PCHB.png" />
