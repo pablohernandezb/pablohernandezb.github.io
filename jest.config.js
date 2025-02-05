@@ -9,7 +9,7 @@ const config = {
     '^.+\\.md$': 'markdown-to-jsx',
   },
   transformIgnorePatterns: [
-    "/node_modules/(?!axios|lightbox\\.js-react)/", // Still needed!
+    '/node_modules/(?!axios|lightbox\\.js-react)/', // Still needed!
   ],
 };
 
