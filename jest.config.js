@@ -15,7 +15,7 @@ const config = {
       isolatedModules: true,
     },
   },
-  extensionsToTreatAsEsm: ['.ts', '.tsx']
+  extensionsToTreatAsEsm: ['.ts', '.tsx'],
 };
 
 module.exports = config;
