@@ -7,7 +7,7 @@ const config = {
   transform: {
     '^.+\\.(ts|tsx)?$': 'ts-jest',
     '^.+\\.(js|jsx)$': 'babel-jest',
-  }
+  },
 };
 
 module.exports = config;
