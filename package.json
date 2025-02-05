@@ -16,7 +16,7 @@
     "lint": "eslint \"**/*.js\"",
     "predeploy": "npm run build && react-snap",
     "start": "react-scripts start",
-    "test": "jest --config jest.config.js"
+    "test": "jest --config jest.config.js --transformIgnorePatterns '/node_modules/(?!axios|lightbox\\.js-react)/'"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",

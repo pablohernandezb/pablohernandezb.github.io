@@ -1,15 +1,15 @@
 const config = {
-  moduleNameMapper: {
-    '^.+\\.(css|less|scss)$': 'babel-jest',
-    '^.+\\.md$': 'markdown-to-jsx',
-  },
   preset: 'ts-jest',
   transform: {
     '^.+\\.(ts|tsx)?$': 'ts-jest',
     '^.+\\.(js|jsx)$': 'babel-jest',
   },
+  moduleNameMapper: {
+    '^.+\\.(css|less|scss)$': 'babel-jest',
+    '^.+\\.md$': 'markdown-to-jsx',
+  },
   transformIgnorePatterns: [
-    "/node_modules/(?!axios|lightbox\\.js-react).+\\.js$", // Still needed!
+    "/node_modules/(?!axios|lightbox\\.js-react)/", // Still needed!
   ],
 };
 
