@@ -8,6 +8,7 @@ const config = {
     '^.+\\.(js|jsx|ts|tsx)$': 'babel-jest',
   },
   transformIgnorePatterns: ['/node_modules/(?!@react-hook|jest-runtime|lightbox\\.js-react)'],
+  testEnvironment: "node",
 };
 
 module.exports = config;
