@@ -8,6 +8,9 @@ const config = {
     '^.+\\.(ts|tsx)?$': 'ts-jest',
     '^.+\\.(js|jsx)$': 'babel-jest',
   },
+  transformIgnorePatterns: [
+    "/node_modules/(?!axios|lightbox\\.js-react).+\\.js$", // Still needed!
+  ],
 };
 
 module.exports = config;
