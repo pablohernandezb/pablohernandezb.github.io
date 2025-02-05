@@ -3,7 +3,11 @@ const config = {
     '^.+\\.(css|less|scss)$': 'babel-jest',
     '^.+\\.md$': 'markdown-to-jsx',
   },
-  transformIgnorePatterns: ['/node_modules/(?!axios|lightbox\\.js-react).+\\.js$'],
+  preset: 'ts-jest',
+  transform: {
+    '^.+\\.(ts|tsx)?$': 'ts-jest',
+    '^.+\\.(js|jsx)$': 'babel-jest',
+  }
 };
 
 module.exports = config;
