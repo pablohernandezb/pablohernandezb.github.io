@@ -38,3 +38,17 @@ body {
     }
   }
 }
+
+.images {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.images img {
+  flex-basis: 50%;
+  padding: 5px;
+  width: 50%; 
+  height: auto;
+}

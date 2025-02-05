@@ -1,10 +1,10 @@
+/* eslint-disable  import/no-unresolved */
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { SlideshowLightbox } from 'lightbox.js-react';
 
 import Main from '../layouts/Main';
-
-import Sheet from '../components/Posters/Sheet';
-import data from '../data/posters';
+import ScrollToTopButton from '../components/Template/ScrollToTopButton';
 
 const Posters = () => (
   <Main title="Posters" description="Learn about Pablo Hernandez Borges's posters.">
@@ -14,7 +14,7 @@ const Posters = () => (
           <h2>
             <Link to="/posters">Posters</Link>
           </h2>
-          <p>A selection of posters presented at research conferences</p>
+          <p>Visualizing research, where data meets design</p>
         </div>
       </header>
       <p>
@@ -23,9 +23,25 @@ const Posters = () => (
         <a href="https://www.gust.org.pl/projects/e-foundry/latin-modern">here</a>.{' '}
         The ones with the big image in the middle are inspired by the <a href="https://osf.io/ef53g/">Better Poster Design</a> framework.
       </p>
-      {data.map((poster) => (
-        <Sheet data={poster} key={poster.title} />
-      ))}
+      <h3>
+        The Early Years (2019-2020)
+      </h3>
+      <SlideshowLightbox className="images" showThumbnails theme="lightbox">
+        <img alt="" src="/images/posters/poster_18th_ttu_PCHB.png" />
+        <img alt="" src="/images/posters/poster_SeLAB_2019_PCHB.png" />
+        <img alt="" src="/images/posters/poster_TX_Circle_2020_PCHB.png" />
+        <img alt="" src="/images/posters/poster_19th_ttu_PCHB.png" />
+      </SlideshowLightbox>
+      <h3>
+        Reaching My Potential (2021-2024)
+      </h3>
+      <SlideshowLightbox className="images" showThumbnails theme="lightbox">
+        <img alt="" src="/images/posters/poster_20th_ttu_PCHB.png" />
+        <img alt="" src="/images/posters/poster_21st_ttu_PCHB.png" />
+        <img alt="" src="/images/posters/poster_TX_Circle_2023_PCHB.png" />
+        <img alt="" src="/images/posters/poster_TX_Circle_2024_PCHB.png" />
+      </SlideshowLightbox>
+      <ScrollToTopButton />
     </article>
   </Main>
 );
