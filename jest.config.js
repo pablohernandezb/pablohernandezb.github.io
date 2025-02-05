@@ -5,6 +5,7 @@ const config = {
     '^.+\\.md$': 'markdown-to-jsx',
   },
   transform: {
+    '^.+\\.(ts|tsx)?$': 'ts-jest',
     '^.+\\.(js|jsx)$': 'babel-jest',
   },
   transformIgnorePatterns: ['/node_modules/(?!jest-runtime|lightbox\\.js-react)'],
