@@ -2,6 +2,7 @@ import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faOrcid } from '@fortawesome/free-brands-svg-icons/faOrcid';
 import { faXTwitter } from '@fortawesome/free-brands-svg-icons/faXTwitter';
+import { faBluesky } from '@fortawesome/free-brands-svg-icons/faBluesky';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
@@ -26,6 +27,11 @@ const data = [
     link: 'https://x.com/pablohernandezb',
     label: 'X',
     icon: faXTwitter,
+  },
+  {
+    link: 'https://bsky.app/profile/pablohernandezb.bsky.social',
+    label: 'BlueSky',
+    icon: faBluesky,
   },
   {
     link: 'mailto:pablohernandezb@gmail.com',
