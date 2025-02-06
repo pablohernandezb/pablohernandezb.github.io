@@ -15,10 +15,11 @@ const Contact = () => (
           <h2>
             <Link to="/contact">Contact</Link>
           </h2>
+          <p>Feel free to get in touch</p>
         </div>
       </header>
       <div className="email-at">
-        <p>Feel free to get in touch. Let&apos;s connect on <a href="https://www.linkedin.com/in/pablohernandezb/">LinkedIn</a>,{' '}
+        <p>Let&apos;s connect on <a href="https://www.linkedin.com/in/pablohernandezb/">LinkedIn</a>,{' '}
           check some of my projects on <a href="https://www.linkedin.com/in/pablohernandezb/">GitHub</a>, or you can email me {' '}
           at <a href="mailto:hi@pablohernandezb.dev">hi[at]pablohernandezb.dev</a>
         </p>
