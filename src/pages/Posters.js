@@ -39,12 +39,14 @@ const Posters = () => (
         this route, I suggest using the <a href="https://www.gust.org.pl/projects/e-foundry/latin-modern">Latin Modern font</a>{' '}
         to make it look like LaTeX.
       </p>
-      <SlideshowLightbox className="images" showThumbnails theme="lightbox">
-        <img alt="" src="/images/posters/poster_18th_ttu_PCHB.png" />
-        <img alt="" src="/images/posters/poster_SeLAB_2019_PCHB.png" />
-        <img alt="" src="/images/posters/poster_TX_Circle_2020_PCHB.png" />
-        <img alt="" src="/images/posters/poster_19th_ttu_PCHB.png" />
-      </SlideshowLightbox>
+      <p>
+        <SlideshowLightbox className="images" showThumbnails theme="lightbox">
+          <img alt="" src="/images/posters/poster_18th_ttu_PCHB.png" />
+          <img alt="" src="/images/posters/poster_SeLAB_2019_PCHB.png" />
+          <img alt="" src="/images/posters/poster_TX_Circle_2020_PCHB.png" />
+          <img alt="" src="/images/posters/poster_19th_ttu_PCHB.png" />
+        </SlideshowLightbox>
+      </p>
       <h3>
         The Better Years (2021-2024)
       </h3>
@@ -55,12 +57,14 @@ const Posters = () => (
         communication captivating audiences and allow me to be more concise during my{' '}
         presentations.
       </p>
-      <SlideshowLightbox className="images" showThumbnails theme="lightbox">
-        <img alt="" src="/images/posters/poster_20th_ttu_PCHB.png" />
-        <img alt="" src="/images/posters/poster_21st_ttu_PCHB.png" />
-        <img alt="" src="/images/posters/poster_TX_Circle_2023_PCHB.png" />
-        <img alt="" src="/images/posters/poster_TX_Circle_2024_PCHB.png" />
-      </SlideshowLightbox>
+      <p>
+        <SlideshowLightbox className="images" showThumbnails theme="lightbox">
+          <img alt="" src="/images/posters/poster_20th_ttu_PCHB.png" />
+          <img alt="" src="/images/posters/poster_21st_ttu_PCHB.png" />
+          <img alt="" src="/images/posters/poster_TX_Circle_2023_PCHB.png" />
+          <img alt="" src="/images/posters/poster_TX_Circle_2024_PCHB.png" />
+        </SlideshowLightbox>
+      </p>
       <h3>
         Reflection &amp; Impact
       </h3>

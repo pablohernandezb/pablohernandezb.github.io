@@ -2,10 +2,6 @@ import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faOrcid } from '@fortawesome/free-brands-svg-icons/faOrcid';
 import { faXTwitter } from '@fortawesome/free-brands-svg-icons/faXTwitter';
-import { faBluesky } from '@fortawesome/free-brands-svg-icons/faBluesky';
-import { faSteam } from '@fortawesome/free-brands-svg-icons/faSteam';
-import { faFacebookF } from '@fortawesome/free-brands-svg-icons/faFacebookF';
-import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
@@ -30,26 +26,6 @@ const data = [
     link: 'https://x.com/pablohernandezb',
     label: 'X',
     icon: faXTwitter,
-  },
-  {
-    link: 'https://bsky.app/profile/pablohernandezb.bsky.social',
-    label: 'BlueSky',
-    icon: faBluesky,
-  },
-  {
-    link: 'https://steamcommunity.com/id/pacehebor/',
-    label: 'Steam',
-    icon: faSteam,
-  },
-  {
-    link: 'https://www.facebook.com/pablohernandezborges/',
-    label: 'Facebook',
-    icon: faFacebookF,
-  },
-  {
-    link: 'https://www.instagram.com/pablohernandezb',
-    label: 'Instagram',
-    icon: faInstagram,
   },
   {
     link: 'mailto:pablohernandezb@gmail.com',
