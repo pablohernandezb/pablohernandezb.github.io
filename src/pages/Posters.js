@@ -52,11 +52,11 @@ const Posters = () => (
         The Better Years (2021-2024)
       </h3>
       <p>
-        During my third year as a doctoral student, I surfed the web trying to find inspiration{' '}
-        for posters designs. I found the <a href="https://osf.io/ef53g/">Better Poster Design</a> framework,{' '}
-        that provided a improvements in two fronts, not only in design but also in simplicity and{' '}
-        communication captivating audiences and allow me to be more concise during my{' '}
-        presentations.
+      "During my third year as a doctoral student, I searched the web for inspiration for{' '}
+      poster designs. I discovered the <a href="https://osf.io/ef53g/"></a>Better Poster Design</a> framework, which offered{' '}
+      improvements in two key areas: design and simplicity. This framework helped me create{' '}
+      more engaging posters that captivated audiences and allowed me to be more concise{' '}
+      during my presentations.
       </p>
       <p>
         <SlideshowLightbox className="images" showThumbnails theme="lightbox">
@@ -71,9 +71,9 @@ const Posters = () => (
       </h3>
       <p>
         I discovered a new passion in crafting posters. I even served as discussant{' '}
-        for poster session at research conferences. But more importantly, I trained{' '}
+        for poster sessions at research conferences. But more importantly, I trained{' '}
         graduate and undergraduate students in the Better Poster philosophy which{' '}
-        made them award prizes in their presentations. This journey also allow me to{' '}
+        resulted in award-winning presentations. This journey also allow me to{' '}
         hone valuable soft skills:
         <ul className="points">
           <li>
@@ -100,7 +100,8 @@ const Posters = () => (
       </h3>
       <p>
         If you got here and are interested in discussing my research or poster design skills,{' '}
-        please feel free to email me at <a href="mailto:hi@pablohernandezb.dev">hi[at]pablohernandezb.dev</a>.
+        please feel free to email me at <a href="mailto:hi@pablohernandezb.dev">hi[at]pablohernandezb.dev</a>.{' '}
+        I can also take a look if you are in the process of crafting a poster and offer advise.
       </p>
       <ScrollToTopButton />
     </article>
