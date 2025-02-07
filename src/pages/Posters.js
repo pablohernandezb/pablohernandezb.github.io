@@ -21,11 +21,11 @@ const Posters = () => (
         Setting the Stage
       </h3>
       <p>
-        Research isn't just about data; for me, it's also about communication,{' '}
+        Research isn&apos;t just about data; for me, it&apos;s also about communication,{' '}
         networking, and art. Through these posters, I not only showcase my research{' '}
         findings but also my commitment to transmitting knowledge in a clear, creative,{' '}
         and engaging manner to a wide range of audiences. I emphasize visual simplicity to{' '}
-        make complex information accessible, as I aim to craft an "elevator pitch" that{' '}
+        make complex information accessible, as I aim to craft an &quot;elevator pitch&quot; that{' '}
         connects with a diverse public and hopefully sparks discussion. Below, you will{' '}
         find a selection of my posters from my graduate student years, demonstrating my{' '}
         progression in both research complexity and design.
