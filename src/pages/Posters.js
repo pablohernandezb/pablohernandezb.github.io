@@ -52,11 +52,11 @@ const Posters = () => (
         The Better Years (2021-2024)
       </h3>
       <p>
-      "During my third year as a doctoral student, I searched the web for inspiration for{' '}
-      poster designs. I discovered the <a href="https://osf.io/ef53g/"></a>Better Poster Design</a> framework, which offered{' '}
-      improvements in two key areas: design and simplicity. This framework helped me create{' '}
-      more engaging posters that captivated audiences and allowed me to be more concise{' '}
-      during my presentations.
+        During my third year as a doctoral student, I searched the web for inspiration for{' '}
+        poster designs. I discovered the <a href="https://osf.io/ef53g/">Better Poster Design</a> framework, which offered{' '}
+        improvements in two key areas: design and simplicity. This framework helped me create{' '}
+        more engaging posters that captivated audiences and allowed me to be more concise{' '}
+        during my presentations.
       </p>
       <p>
         <SlideshowLightbox className="images" showThumbnails theme="lightbox">
@@ -99,9 +99,8 @@ const Posters = () => (
         Continue the Story
       </h3>
       <p>
-        If you got here and are interested in discussing my research or poster design skills,{' '}
-        please feel free to email me at <a href="mailto:hi@pablohernandezb.dev">hi[at]pablohernandezb.dev</a>.{' '}
-        I can also take a look if you are in the process of crafting a poster and offer advise.
+        If you got here and are interested in discussing my research or need poster design advise,{' '}
+        please feel free to email me at <a href="mailto:hi@pablohernandezb.dev">hi[at]pablohernandezb.dev</a>.
       </p>
       <ScrollToTopButton />
     </article>
