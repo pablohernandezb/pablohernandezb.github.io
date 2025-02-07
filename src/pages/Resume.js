@@ -45,7 +45,7 @@ const Resume = () => (
             <Link to="resume">Resume</Link>
           </h2>
           <p>
-            <a href="/files/Resume - Pablo Hernandez Borges - v01082025.pdf" download="Resume - Pablo Hernandez Borges.pdf">Download PDF version</a>
+            <a href="https://drive.google.com/file/d/1ZAaSrJMe5UaY3WlydLoicgLIH74Oz4cP/view?usp=sharing" download="Resume - Pablo Hernandez Borges.pdf">Download PDF version</a>
           </p>
           <div className="link-container">
             {Object.keys(sections).map((sec) => (
