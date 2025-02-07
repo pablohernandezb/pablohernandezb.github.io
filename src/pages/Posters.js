@@ -21,13 +21,14 @@ const Posters = () => (
         Setting the Stage
       </h3>
       <p>
-        Research is not just about data; for me it is also about communication, networking,{' '}
-        and art. Through these posters, I not only show my research findings but also my{' '}
-        commitment to transmit knolegde in a clear, creative, and engaging manner to a wide{' '}
-        range audience. I put emphasis on visual simplicity to convey complex information accesible{' '}
-        , as I need to craft an elevator pitch that connects with a diverse public, and hopefully{' '}
-        spark a discussion. Below you will find a periodization of my posters during my graduate student{' '}
-        years, they show my progression both in research complexity, and design.
+        Research isn't just about data; for me, it's also about communication,{' '}
+        networking, and art. Through these posters, I not only showcase my research{' '}
+        findings but also my commitment to transmitting knowledge in a clear, creative,{' '}
+        and engaging manner to a wide range of audiences. I emphasize visual simplicity to{' '}
+        make complex information accessible, as I aim to craft an "elevator pitch" that{' '}
+        connects with a diverse public and hopefully sparks discussion. Below, you will{' '}
+        find a selection of my posters from my graduate student years, demonstrating my{' '}
+        progression in both research complexity and design.
       </p>
       <h3>
         The Early Years (2019-2020)
@@ -69,7 +70,7 @@ const Posters = () => (
         Reflection &amp; Impact
       </h3>
       <p>
-        While crafting posters, I discovered a new passion. I even served as discussant{' '}
+        I discovered a new passion in crafting posters. I even served as discussant{' '}
         for poster session at research conferences. But more importantly, I trained{' '}
         graduate and undergraduate students in the Better Poster philosophy which{' '}
         made them award prizes in their presentations. This journey also allow me to{' '}
