@@ -5,17 +5,17 @@ const config = {
     '^.+\\.md$': 'markdown-to-jsx',
   },
   transform: {
-    '^.+\\.(js|jsx|ts|tsx)$': 'babel-jest',
-
+    '^.+\\.(js|ts|tsx|jsx|mjs)$': require.resolve('babel-jest')
   },
-  transformIgnorePatterns: ['/node_modules/(?!@react-hook|lightbox\\.js-react)*\\.(js|tsx)$'],
-  testEnvironment: 'node',
+  transformIgnorePatterns: ['/node_modules/(?!@react-hook|lightbox\.js-react|exifr|jest-runtime)'],
+  testEnvironment: 'jsdom',
   globals: {
     'ts-jest': {
       isolatedModules: true,
     },
   },
   extensionsToTreatAsEsm: ['.ts', '.tsx'],
+  setupFiles: ['./setupTest.js'],
 };
 
 module.exports = config;
