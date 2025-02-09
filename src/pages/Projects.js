@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
+import ScrollToTopButton from '../components/Template/ScrollToTopButton';
 
 import Cell from '../components/Projects/Cell';
 import data from '../data/projects';
@@ -20,6 +21,7 @@ const Projects = () => (
       {data.map((project) => (
         <Cell data={project} key={project.title} />
       ))}
+      <ScrollToTopButton />
     </article>
   </Main>
 );
