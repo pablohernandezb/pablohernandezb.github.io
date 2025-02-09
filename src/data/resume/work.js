@@ -45,8 +45,8 @@ const work = [
     endDate: '2018-04-01',
     summary: 'Hired as a professor for the Departament of Social Sciences. Lecturer in basic courses for freshmen students.',
     highlights: [
-      'During the January-March 2018 trimester I taught CSA-311 "Men, Culture and Society I" and CSA-312 "Men, Culture and Society II".',
-      'During the September-December 2017 I taught CSA-211 "Venezuela at the XXI Century: Culture and Society".',
+      'Taught CSA-311 "Men, Culture and Society I" and CSA-312 "Men, Culture and Society II" (Jan-Mar 2018).',
+      'Taught CSA-211 "Venezuela in the 21st Century: Culture and Society" (Sep-Dec 2017).',
     ],
   },
   {
@@ -55,11 +55,11 @@ const work = [
     url: 'https://usb.ve',
     startDate: '2014-12-01',
     endDate: '2016-12-01',
-    summary: 'Implemented the final phase of the SIEVAPAO project, an employee peer-to-peer and rubric performance evaluation university-wide. I served under the Director of Human Capital Management Department',
+    summary: 'I implemented the final phase of the SIEVAPAO project, a university-wide HR solution for employee peer-to-peer and performance evaluations.',
     highlights: [
-      'Implement IT solutions for human resources evaluations.',
-      'Develop modules for specifics tasks such as reporting and summarizing the evaluations for managers and directors within the department.',
+      'I developed modules for specific tasks such as reporting and summarizing the evaluations for managers and directors within the department.',
       'Technologies and tools used include PHP, MariaDB, PostgreSQL, HTML5, CSS3, Javascript, JQuery.',
+      'Project sponsored by the Director of Human Capital Management.',
     ],
   },
 ];

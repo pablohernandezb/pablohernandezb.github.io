@@ -17,7 +17,7 @@ const Cell = ({ data }) => (
         <a href={data.link} className="image">
           <img src={`${process.env.PUBLIC_URL}${data.image}`} alt={data.title} />
           <div className="img__description_layer">
-            <p className="img__description">Got to GitHub repository</p>
+            <p className="img__description">Go to GitHub repository</p>
           </div>
         </a>
         <figcaption className="figcaption">

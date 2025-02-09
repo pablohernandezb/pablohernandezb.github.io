@@ -86,7 +86,7 @@ const Posters = () => (
           </li>
           <li>
             Each poster presented unique challenges, due to the research methodology employed,{' '}
-            requiring creative problemo-solving and attention to detail.
+            requiring creative problem-solving and attention to detail.
           </li>
           <li>
             Presenting at diverse conferences taught me to adapt my communication stlye to{' '}

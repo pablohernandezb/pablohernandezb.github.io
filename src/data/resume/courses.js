@@ -24,19 +24,19 @@ const courses = [
     university: 'Texas Tech University',
   },
   {
-    title: 'Venezuela at the XXI Century: The Political Body',
+    title: 'Venezuela in the 21st Century: The Political Body',
     number: 'CSA 213',
     link: '#',
     university: 'Universidad Simon Bolivar',
   },
   {
-    title: 'Venezuela at the XXI Century: Economy and Society',
+    title: 'Venezuela in the 21st Century: Economy and Society',
     number: 'CSA 212',
     link: '#',
     university: 'Universidad Simon Bolivar',
   },
   {
-    title: 'Venezuela at the XXI Century: Men and Culture',
+    title: 'Venezuela in the 21st Century: Men and Culture',
     number: 'CSA 211',
     link: '#',
     university: 'Universidad Simon Bolivar',
