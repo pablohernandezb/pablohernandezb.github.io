@@ -22,8 +22,8 @@ const data = [
       'The SCM is used to compare the actual post-treatment outcomes in Venezuela with the counterfactual outcomes that would have been expected had the democratic backsliding not occurred.',
     ],
     challenges: [
-      'One of the main limitations is the difficulty of finding countries similar to Venezuela during the period of study. The V-Dem project datasets helped overcome the issue of not having data that could be collected on the field.',
-      'The timeframe from this project wass less than six month, which shrunk the expectation of doing field work but opened the opportunity for causal inferences approaches such as SCM.',
+      'One of the main limitations as the difficulty of finding countries similar to Venezuela during the period of study. The V-Dem project datasets helped overcome the issue of not having data that could be collected on the field.',
+      'The timeframe from this project was less than six months, which diminshed the expectation of doing field work but opened the opportunity for causal inferences approaches such as SCM.',
     ],
     retrospective: [
       'With a more mixed-method approach, this project could be expanded in the future to include study cases such as Hungary in Europe.',
