@@ -239,6 +239,46 @@ const skills = [
     competency: 1,
     category: ['Core Competencies'],
   },
+  {
+    title: 'Pandas',
+    competency: 1,
+    category: ['AI/ML']
+  },
+  {
+    title: "Scikit-learn",
+    competency: 1,
+    category: ['AI/ML']
+  },
+  {
+    title: "Numpy",
+    competency: 1,
+    category: ['AI/ML']
+  },
+  {
+    title: "Matplotlib",
+    competency: 1,
+    category: ['AI/ML']
+  },
+  {
+    title: 'NLTK',
+    competency: 1,
+    category: ['AI/ML']
+  },
+  {
+    title: "Textstat",
+    competency: 1,
+    category: ['AI/ML']
+  },
+  {
+    title: "Large Language Models",
+    competency: 1,
+    category: ['AI/ML', 'Data Science ', 'Research']
+  },
+  {
+    title: "TensorFlow",
+    competency: 1,
+    category: ['AI/ML', 'Data Science ']
+  },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
 // this is a list of colors that I like. The length should be === to the
@@ -253,6 +293,7 @@ const colors = [
   '#3896e2',
   '#c3423f',
   '#319e6a',
+  '#FF4500',
 ];
 
 const categories = [...new Set(skills.flatMap(({ category }) => category))]

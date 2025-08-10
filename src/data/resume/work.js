@@ -13,6 +13,18 @@
  */
 const work = [
   {
+    name: 'Universidad Simon Bolivar',
+    position: 'Professor Ad Honorem',
+    url: 'http://usb.ve',
+    startDate: '2025-04-01',
+    summary: 'Serving as a volunteer faculty member, I contribute my expertise in social sciences to teach and mentor students and enrich the academic curriculum.',
+    highlights: [
+      'Developed and led the "Republic of Sartenejas" project, an innovative educational simulation for social science courses, bridging theory with practical application in politics, economics, and sociology.',
+      'Fostered awareness about politically relevant worlwide and national recent events, fostering collaboration, critical thinking, and problem-solving skills through class discussions.',
+      'Designed and implemented curricula for core freshman courses, integrating project-based learning and digital tools (Google Sites, IA) to enhance student engagement and tech literacy.',
+    ],
+  },
+  {
     name: 'Texas Tech University',
     position: 'Research Assistant & Instructor',
     url: 'https://ttu.edu',
