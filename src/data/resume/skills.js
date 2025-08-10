@@ -242,48 +242,49 @@ const skills = [
   {
     title: 'Pandas',
     competency: 1,
-    category: ['AI/ML']
+    category: ['AI/ML'],
   },
   {
-    title: "Scikit-learn",
+    title: 'Scikit-learn',
     competency: 1,
-    category: ['AI/ML']
+    category: ['AI/ML'],
   },
   {
-    title: "Numpy",
+    title: 'Numpy',
     competency: 1,
-    category: ['AI/ML']
+    category: ['AI/ML'],
   },
   {
-    title: "Matplotlib",
+    title: 'Matplotlib',
     competency: 1,
-    category: ['AI/ML']
+    category: ['AI/ML'],
   },
   {
     title: 'NLTK',
     competency: 1,
-    category: ['AI/ML']
+    category: ['AI/ML'],
   },
   {
-    title: "Textstat",
+    title: 'Textstat',
     competency: 1,
-    category: ['AI/ML']
+    category: ['AI/ML'],
   },
   {
-    title: "Large Language Models",
+    title: 'Large Language Models',
     competency: 1,
-    category: ['AI/ML', 'Data Science ', 'Research']
+    category: ['AI/ML', 'Data Science ', 'Research'],
   },
   {
-    title: "TensorFlow",
+    title: 'TensorFlow',
     competency: 1,
-    category: ['AI/ML', 'Data Science ']
+    category: ['AI/ML', 'Data Science '],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
 // this is a list of colors that I like. The length should be === to the
 // number of categories. Re-arrange this list until you find a pattern you like.
 const colors = [
+  '#FF4500',
   '#6968b3',
   '#37b1f5',
   '#40494e',
@@ -293,7 +294,6 @@ const colors = [
   '#3896e2',
   '#c3423f',
   '#319e6a',
-  '#FF4500',
 ];
 
 const categories = [...new Set(skills.flatMap(({ category }) => category))]
