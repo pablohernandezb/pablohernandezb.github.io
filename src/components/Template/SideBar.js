@@ -29,7 +29,7 @@ const SideBar = () => (
         currently serving as Professor Ad Honorem at the <a href="https://www.cs.usb.ve/">Department of Social Sciences</a> at USB.
       </p>
       <p>
-        I'm skilled in a variety of analytical techniques, from classic statistics to modern AI
+        I am skilled in a variety of analytical techniques, from classic statistics to modern AI
         and Machine Learning. I use Python and R with key libraries to build predictive models
         and extract insights from complex, unstructured data, including text and network analysis.
         My experience includes working in high-performance computing environments.
