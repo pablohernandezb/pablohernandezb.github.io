@@ -22,11 +22,18 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hello! I craft models to understand our world. I am a{' '}
+        Hello! I craft AI and ML models to understand our world. I am a{' '}
         Computer Engineer from <a href="http://www.usb.ve/">Universidad Simon Bolivar</a>, with a PhD in Political Science from {' '}
         <a href="https://www.ttu.edu/">Texas Tech University</a>. Previously, I{' '}
         was an Instructor at the <a href="https://www.depts.ttu.edu/politicalscience/">Department of Political Science</a> at TTU,{' '}
         currently serving as Professor Ad Honorem at the <a href="https://www.cs.usb.ve/">Department of Social Sciences</a> at USB.
+      </p>
+      <p>
+        I'm skilled in a variety of analytical techniques, from classic statistics to modern AI
+        and Machine Learning. I use Python and R with key libraries to build predictive models
+        and extract insights from complex, unstructured data, including text and network analysis.
+        My experience includes working in high-performance computing environments.
+        I'm passionate about solving challenging problems to help make impactful decisions.
       </p>
       <p>
         My research focuses on authoritarianism, legislatures, democratic backsliding, and

@@ -1,7 +1,7 @@
 const degrees = [
   {
     school: 'Texas Tech University',
-    degree: 'PhD and MA in Political Science',
+    degree: 'PhD and MA in Political Science (minor in Applied Statistics)',
     link: 'https://ttu.edu',
     year: 2023,
   },
