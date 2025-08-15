@@ -33,7 +33,7 @@ const SideBar = () => (
         and Machine Learning. I use Python and R with key libraries to build predictive models
         and extract insights from complex, unstructured data, including text and network analysis.
         My experience includes working in high-performance computing environments.
-        I'm passionate about solving challenging problems to help make impactful decisions.
+        I am passionate about solving challenging problems to help make impactful decisions.
       </p>
       <p>
         My research focuses on authoritarianism, legislatures, democratic backsliding, and
