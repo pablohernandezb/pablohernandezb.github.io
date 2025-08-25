@@ -6,8 +6,8 @@ import Main from '../layouts/Main';
 const Index = () => (
   <Main
     description={
-      "Pablo Hernandez Borges's personal website. PhD in Political Science from TTU | "
-      + 'Data Analyst | Data Scientist | Video Games.'
+      "Pablo Hernandez Borges's personal website. Data Scientist | "
+      + 'AI & ML Modeler.'
     }
   >
     <article className="post" id="index">
