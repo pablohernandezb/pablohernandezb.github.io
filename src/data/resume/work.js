@@ -14,10 +14,10 @@
 const work = [
   {
     name: 'Universidad Simon Bolivar',
-    position: 'Professor Ad Honorem',
+    position: 'Instructor',
     url: 'http://usb.ve',
     startDate: '2025-04-01',
-    summary: 'Serving as a volunteer faculty member, I contribute my expertise in social sciences to teach and mentor students and enrich the academic curriculum.',
+    summary: 'Serving as a adjunct faculty member, I contribute my expertise in social sciences to teach and mentor students and enrich the academic curriculum.',
     highlights: [
       'Developed and led the "Republic of Sartenejas" project, an innovative educational simulation for social science courses, bridging theory with practical application in politics, economics, and sociology.',
       'Fostered awareness about politically relevant worlwide and national recent events, fostering collaboration, critical thinking, and problem-solving skills through class discussions.',
@@ -51,7 +51,7 @@ const work = [
   },
   {
     name: 'Universidad Simon Bolivar',
-    position: 'Contractor Professor',
+    position: 'Adjunct Professor',
     url: 'http://usb.ve',
     startDate: '2017-09-01',
     endDate: '2018-04-01',
