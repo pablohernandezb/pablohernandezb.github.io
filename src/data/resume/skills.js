@@ -220,7 +220,7 @@ const skills = [
     category: ['Core Competencies'],
   },
   {
-    title: 'Resourfulness',
+    title: 'Resourcefulness',
     competency: 1,
     category: ['Core Competencies'],
   },
