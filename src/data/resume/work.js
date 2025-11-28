@@ -22,7 +22,7 @@ const work = [
       'Engineered large-scale data platform processing electoral, geocoded, and survey datasets through distributed computing, reducing feature extraction time by 70% through optimized HPC pipelines.',
       'Built anomaly detection system achieving 92% precision for data quality validation across multi-source datasets, enabling automated error flagging for governance analytics clients.',
       'Automated data integration pipelines merging multi-source datasets (V-Dem, ERT, Transparency International) with 99%+ consistency validation, eliminating manual reconciliation workflows.',
-      'Developed 15+ automated geospatial visualization pipelines processing large raster datasets (maritime traffic, climate, population, terrain) using R, implementing 3D rendering, bivariate classification, geospatial models, and publication-ready cartography workflows that reduced manual cartography time by 70%.'
+      'Developed 15+ automated geospatial visualization pipelines processing large raster datasets (maritime traffic, climate, population, terrain) using R, implementing 3D rendering, bivariate classification, geospatial models, and publication-ready cartography workflows that reduced manual cartography time by 70%.',
     ],
   },
   {
