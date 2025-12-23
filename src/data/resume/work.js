@@ -27,7 +27,7 @@ const work = [
   },
   {
     name: 'Universidad Simon Bolivar',
-    position: 'Instructor',
+    position: 'Visiting Professor',
     url: 'http://usb.ve',
     startDate: '2025-04-01',
     summary: 'Serving as a adjunct faculty member, I contribute my expertise in social sciences to teach and mentor students and enrich the academic curriculum.',

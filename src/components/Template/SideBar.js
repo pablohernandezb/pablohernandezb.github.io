@@ -26,7 +26,7 @@ const SideBar = () => (
         Computer Engineer from <a href="http://www.usb.ve/">Universidad Simon Bolivar</a>, with a PhD in Political Science from {' '}
         <a href="https://www.ttu.edu/">Texas Tech University</a>. Previously, I{' '}
         was an Instructor at the <a href="https://www.depts.ttu.edu/politicalscience/">Department of Political Science</a> at TTU,{' '}
-        currently serving as Professor Ad Honorem at the <a href="https://www.cs.usb.ve/">Department of Social Sciences</a> at USB.
+        currently serving as Visiting Professor at the <a href="https://www.cs.usb.ve/">Department of Social Sciences</a> at USB.
       </p>
       <p>
         I am skilled in a variety of analytical techniques, from classic statistics to modern AI
