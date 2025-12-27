@@ -96,10 +96,10 @@ const Maps = () => (
       </p>
       <p>
         <SlideshowLightbox className="images" showThumbnails theme="lightbox">
-          <img alt="Power Plants of Venezuela." src="/images/maps/3d_power_plant_venezuela_color_PRINT.webp" />
-          <img alt="River Basins of Venezuela." src="/images/maps/venezuela-3d-river-basins_PRINT.webp" />
-          <img alt="Tanaka Relief Map, Venezuela." src="/images/maps/map_3d_relief_VE.webp" />
-          <img alt="Temperature and Precipitaiton (1981-2010), Venezuela." src="/images/maps/venezuela-bivariate-3d-PRINT.webp" />
+          <img alt="Power Plants of Venezuela." src="/images/maps/3d_power_plant_venezuela_color_PRINT.webp" style={{ width: '50%', objectFit: 'cover', objectPosition: 'center' }} />
+          <img alt="River Basins of Venezuela." src="/images/maps/venezuela-3d-river-basins_PRINT.webp" style={{ width: '50%', objectFit: 'cover', objectPosition: 'center' }} />
+          <img alt="Tanaka Relief Map, Venezuela." src="/images/maps/map_3d_relief_VE.webp" style={{ width: '50%', objectFit: 'cover', objectPosition: 'center' }} />
+          <img alt="Temperature and Precipitaiton (1981-2010), Venezuela." src="/images/maps/venezuela-bivariate-3d-PRINT.webp" style={{ width: '50%', objectFit: 'cover', objectPosition: 'center' }} />
         </SlideshowLightbox>
       </p>
       <h3>
@@ -113,10 +113,10 @@ const Maps = () => (
       </p>
       <p>
         <SlideshowLightbox className="images" showThumbnails theme="lightbox">
-          <img alt="Poverty in the Caracas Metropolitan Area." src="/images/maps/caracas_grdi.webp" />
-          <img alt="Bathymetry of Lake Valencia, Venezuela." src="/images/maps/lake_of_valencia_PRINT.webp" />
-          <img alt="Local GDP per capita (2021), Bolivia." src="/images/maps/map_GDPPC_2021_tiles_BO_PRINT.webp" />
-          <img alt="Shipping Traffic by type, Venezuela." src="/images/maps/shipping_traffic_bytype_VENEZUELA_with_ports_PRINT.webp" />
+          <img alt="Poverty in the Caracas Metropolitan Area." src="/images/maps/caracas_grdi.webp" style={{ width: '50%', objectFit: 'cover', objectPosition: 'center' }} />
+          <img alt="Bathymetry of Lake Valencia, Venezuela." src="/images/maps/lake_of_valencia_PRINT.webp" style={{ width: '50%', objectFit: 'cover', objectPosition: 'center' }} />
+          <img alt="Local GDP per capita (2021), Bolivia." src="/images/maps/map_GDPPC_2021_tiles_BO_PRINT.webp" style={{ width: '50%', objectFit: 'cover', objectPosition: 'center' }} />
+          <img alt="Shipping Traffic by type, Venezuela." src="/images/maps/shipping_traffic_bytype_VENEZUELA_with_ports_PRINT.webp" style={{ width: '50%', objectFit: 'cover', objectPosition: 'center' }} />
         </SlideshowLightbox>
       </p>
       <h3>
