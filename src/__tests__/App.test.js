@@ -100,10 +100,23 @@ describe('renders the app', () => {
     expect(window.location.pathname).toBe('/posters');
   });
 
-  it('can navigate to /contact', async () => {
+  it('can navigate to /mapss', async () => {
     expect.assertions(3);
     const contactLink = document.querySelector(
       '#header > nav > ul > li:nth-child(5) > a',
+    );
+    expect(contactLink).toBeInTheDocument();
+    await act(async () => {
+      await contactLink.click();
+    });
+    expect(document.title).toContain('Maps |');
+    expect(window.location.pathname).toBe('/maps');
+  });
+
+  it('can navigate to /contact', async () => {
+    expect.assertions(3);
+    const contactLink = document.querySelector(
+      '#header > nav > ul > li:nth-child(6) > a',
     );
     expect(contactLink).toBeInTheDocument();
     await act(async () => {

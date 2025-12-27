@@ -33,10 +33,10 @@ const Maps = () => (
       </p>
       <p>
         <SlideshowLightbox className="images" showThumbnails theme="lightbox">
-          <img alt="Caprock Canions" src="/images/maps/map_caprockcanions.jpg" />
-          <img alt="Tornado Damage in Anderson, TX" src="/images/maps/map_tornado_damage_anderson_tx.png" />
-          <img alt="Affected Areas in Galveston, TX" src="/images/maps/map_affected_areas_galveston_tx.png" />
-          <img alt="Hurricane Damage in Galveston, TX" src="/images/maps/map_hurricane_galveston_tx.png" />
+          <img alt="Caprock Canions" src="/images/maps/map_caprockcanions.webp" />
+          <img alt="Tornado Damage in Anderson, TX" src="/images/maps/map_tornado_damage_anderson_tx.webp" />
+          <img alt="Affected Areas in Galveston, TX" src="/images/maps/map_affected_areas_galveston_tx.webp" />
+          <img alt="Hurricane Damage in Galveston, TX" src="/images/maps/map_hurricane_galveston_tx.webp" />
         </SlideshowLightbox>
       </p>
       <p>
@@ -59,10 +59,10 @@ const Maps = () => (
       </p>
       <p>
         <SlideshowLightbox className="images" showThumbnails theme="lightbox">
-          <img alt="Landsat. Lubbock, TX." src="/images/maps/gee_lubbock_landsat.png" />
-          <img alt="NDVI Explorar App. Lubbock, TX." src="/images/maps/gee_lubbock_NDVI_Explorar_App.png" />
-          <img alt="Median SR. Lubbock, TX." src="/images/maps/gee_lubbock_medianSR.png" />
-          <img alt="Machine Learning. Lubbock, TX." src="/images/maps/gee_machine_learning.png" />
+          <img alt="Landsat. Lubbock, TX." src="/images/maps/gee_lubbock_landsat.webp" />
+          <img alt="NDVI Explorer App. Lubbock, TX." src="/images/maps/gee_lubbock_NDVI_Explorer_App.webp" />
+          <img alt="Median SR. Lubbock, TX." src="/images/maps/gee_lubbock_medianSR.webp" />
+          <img alt="Machine Learning. Lubbock, TX." src="/images/maps/gee_machine_learning.webp" />
         </SlideshowLightbox>
       </p>
       <h3>
@@ -79,10 +79,10 @@ const Maps = () => (
       </p>
       <p>
         <SlideshowLightbox className="images" showThumbnails theme="lightbox">
-          <img alt="Truecolor. OMA, Bolivar, Venezuela." src="/images/maps/gee_oma_truecolor_2021.png" />
-          <img alt="RF Classification. OMA, Bolivar, Venezuela." src="/images/maps/gee_oma_RF_classification_2021.png" />
-          <img alt="NDVI. OMA, Bolivar, Venezuela." src="/images/maps/gee_oma_ndvi_2016_2021.png" />
-          <img alt="Infrared. OMA, Bolivar, Venezuela." src="/images/maps/gee_oma_infrared_2021.png" />
+          <img alt="Truecolor. OMA, Bolivar, Venezuela." src="/images/maps/gee_oma_truecolor_2021.webp" />
+          <img alt="RF Classification. OMA, Bolivar, Venezuela." src="/images/maps/gee_oma_RF_classification_2021.webp" />
+          <img alt="NDVI. OMA, Bolivar, Venezuela." src="/images/maps/gee_oma_ndvi_2016_2021.webp" />
+          <img alt="Infrared. OMA, Bolivar, Venezuela." src="/images/maps/gee_oma_infrared_2021.webp" />
         </SlideshowLightbox>
       </p>
       <h3>
@@ -96,10 +96,10 @@ const Maps = () => (
       </p>
       <p>
         <SlideshowLightbox className="images" showThumbnails theme="lightbox">
-          <img alt="Power Plants of Venezuela." src="/images/maps/3d_power_plant_venezuela_color_PRINT.png" />
-          <img alt="River Basins of Venezuela." src="/images/maps/venezuela-3d-river-basins_PRINT.png" />
-          <img alt="Tanaka Relief Map, Venezuela." src="/images/maps/map_3d_relief_VE.png" />
-          <img alt="Temperature and Precipitaiton (1981-2010), Venezuela." src="/images/maps/venezuela-bivariate-3d-PRINT.png" />
+          <img alt="Power Plants of Venezuela." src="/images/maps/3d_power_plant_venezuela_color_PRINT.webp" />
+          <img alt="River Basins of Venezuela." src="/images/maps/venezuela-3d-river-basins_PRINT.webp" />
+          <img alt="Tanaka Relief Map, Venezuela." src="/images/maps/map_3d_relief_VE.webp" />
+          <img alt="Temperature and Precipitaiton (1981-2010), Venezuela." src="/images/maps/venezuela-bivariate-3d-PRINT.webp" />
         </SlideshowLightbox>
       </p>
       <h3>
@@ -113,10 +113,10 @@ const Maps = () => (
       </p>
       <p>
         <SlideshowLightbox className="images" showThumbnails theme="lightbox">
-          <img alt="Poverty in the Caracas Metropolitan Area." src="/images/maps/caracas_grdi.png" />
-          <img alt="Bathymetry of Lake Valencia, Venezuela." src="/images/maps/lake_of_valencia_PRINT.png" />
-          <img alt="Local GPP per capita (2021), Bolivia." src="/images/maps/map_GDPPC_2021_tiles_BO_PRINT.png" />
-          <img alt="Shipping Traffic by type, Venezuela." src="/images/maps/shipping_traffic_bytype_VENEZUELA_with_ports_PRINT.png" />
+          <img alt="Poverty in the Caracas Metropolitan Area." src="/images/maps/caracas_grdi.webp" />
+          <img alt="Bathymetry of Lake Valencia, Venezuela." src="/images/maps/lake_of_valencia_PRINT.webp" />
+          <img alt="Local GDP per capita (2021), Bolivia." src="/images/maps/map_GDPPC_2021_tiles_BO_PRINT.webp" />
+          <img alt="Shipping Traffic by type, Venezuela." src="/images/maps/shipping_traffic_bytype_VENEZUELA_with_ports_PRINT.webp" />
         </SlideshowLightbox>
       </p>
       <h3>
