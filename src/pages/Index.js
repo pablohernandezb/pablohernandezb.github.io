@@ -26,7 +26,8 @@ const Index = () => (
         Please feel free to read more{' '}
         <Link to="/about">about me</Link>, or you can check out my{' '}
         <Link to="/resume">resume</Link>, <Link to="/projects">projects</Link>,{' '}
-        <Link to="/posters">posters</Link>, or <Link to="/contact">contact</Link> me.
+        <Link to="/posters">posters</Link>, <Link to="/maps">maps</Link>,{' '}
+        or <Link to="/contact">contact</Link> me.
       </p>
     </article>
   </Main>
