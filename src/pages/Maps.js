@@ -89,10 +89,12 @@ const Maps = () => (
         Spatial Data Science
       </h3>
       <p>
-        The peak of my spatial workflow is R and RStudio. Moving to a code-first approach allows for 100%{' '}
-        reproducibility and the integration of advanced statistics into map-making. Using packages like sf,{' '}
-        ggplot2, and rayshader, I treat every map as a statistical graphic, ensuring that the visual output{' '}
-        is as mathematically rigorous as it is aesthetically compelling.
+        The peak of my spatial workflow is <a href="https://cran.rstudio.com/">R</a> and{' '}
+        <a href="https://posit.co/download/rstudio-desktop/">RStudio</a>. Moving to a code-first{' '}
+        approach allows for 100% reproducibility and the integration of advanced statistics into{' '}
+        map-making. Using packages like sf, elevatr, terra, and rayshader, I treat every map as{' '}
+        a statistical graphic, ensuring that the visual output is as mathematically rigorous as{' '}
+        it is aesthetically compelling.
       </p>
       <p>
         <SlideshowLightbox className="images" showThumbnails theme="lightbox">
@@ -106,16 +108,16 @@ const Maps = () => (
         Socio-Economic Analytics &amp; Global Trends
       </h3>
       <p>
-        Beyond aesthetics, I use R to solve complex spatial problems. I focus on mapping human{' '}
-        systems: modeling poverty through proxy data, analyzing maritime traffic density from AIS data,{' '}
-        and visualizing local GDP. These maps are designed to inform policy and uncover the hidden spatial{' '}
-        patterns of human activity.
+        Beyond aesthetics, I use <a href="https://cran.rstudio.com/">R</a> to solve complex spatial{' '}
+        problems. I focus on mapping human systems: modeling poverty through proxy data, analyzing{' '}
+        maritime traffic density from AIS data, and visualizing local GDP. These maps are designed{' '}
+        to inform policy and uncover the hidden spatial patterns of human activity.
       </p>
       <p>
         <SlideshowLightbox className="images" showThumbnails theme="lightbox">
           <img alt="Poverty in the Caracas Metropolitan Area." src="/images/maps/caracas_grdi.webp" style={{ width: '50%', objectFit: 'cover', objectPosition: 'center' }} />
           <img alt="Bathymetry of Lake Valencia, Venezuela." src="/images/maps/lake_of_valencia_PRINT.webp" style={{ width: '50%', objectFit: 'cover', objectPosition: 'center' }} />
-          <img alt="Local GDP per capita (2021), Bolivia." src="/images/maps/map_GDPPC_2021_tiles_BO_PRINT.webp" style={{ width: '50%', objectFit: 'cover', objectPosition: 'center' }} />
+          <img alt="Population Change (2015-2025), Venezuela." src="/images/maps/venezuela-population-change-PRINT.webp" style={{ width: '50%', objectFit: 'cover', objectPosition: 'center' }} />
           <img alt="Shipping Traffic by type, Venezuela." src="/images/maps/shipping_traffic_bytype_VENEZUELA_with_ports_PRINT.webp" style={{ width: '50%', objectFit: 'cover', objectPosition: 'center' }} />
         </SlideshowLightbox>
       </p>
@@ -123,7 +125,7 @@ const Maps = () => (
         The Path Ahead
       </h3>
       <p>
-        My journey with cartography is always evolving. If you’d like to discuss the intersection of data{' '}
+        My journey with cartography is always evolving. If you&apos;d like to discuss the intersection of data{' '}
         and geography or need help visualizing spatial patterns, please feel free to email me at{' '}
         <a href="mailto:hi@pablohernandezb.dev">hi[at]pablohernandezb.dev</a>.
       </p>
