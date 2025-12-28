@@ -1,6 +1,6 @@
 // TODO Add a couple lines about each project
 const data = [
-    {
+  {
     title: 'Dynamic Flow Explorer',
     link: 'https://github.com/pablohernandezb/sankey-diagram-alumnusb',
     legend: 'Interactive dashboard visualizing the cash flow and resource allocation of the USB Alumni Association (AlumnUSB).',
@@ -16,8 +16,8 @@ const data = [
       'The dataset is structured to support temporal filtering, allowing users to view cash flows for specific fiscal years.',
     ],
     tech: [
-      'Built using **R** and **Shiny** for the interactive web framework.',
-      'Utilizes **Plotly** and custom **D3.js** integration to render the Sankey diagram, offering fine-grained control over node positioning and flow visualization.',
+      'Built using R and Shiny for the interactive web framework.',
+      'Utilizes Plotly and custom D3.js integration to render the Sankey diagram, offering fine-grained control over node positioning and flow visualization.',
       'Implements a bilingual UI (English/Spanish) to serve the international alumni community.',
     ],
     challenges: [
