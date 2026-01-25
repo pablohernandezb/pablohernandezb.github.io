@@ -13,7 +13,7 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 style={{ textTransform: 'lowercase' }}>
+          <h2 style={{ textTransform: 'none' }}>
             <Link to="/">print(&quot;Welcome to my site!&quot;)</Link>
           </h2>
           <p>
