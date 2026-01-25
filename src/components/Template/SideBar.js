@@ -16,7 +16,7 @@ const SideBar = () => (
         <p>
           Data Scientist & Researcher
         </p>
-        <p>
+        <p style={{ textTransform: 'lowercase' }}>
           <a href="mailto:hi@pablohernandezb.dev">hi@pablohernandezb.dev</a>
         </p>
       </header>
