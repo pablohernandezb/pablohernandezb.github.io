@@ -20,12 +20,17 @@ const SideBar = () => (
     </section>
 
     <section className="blurb">
-      <h2>About</h2>
       <p>
-        Hello! I craft AI and ML models to understand our world. I am a{' '}
+        Hello! I craft AI and ML models that help people and organizations in understanding our world.
+      </p>
+      <p>  
+        I am a{' '}
         Computer Engineer from <a href="http://www.usb.ve/">Universidad Simon Bolivar</a>, with a PhD in Political Science from {' '}
-        <a href="https://www.ttu.edu/">Texas Tech University</a>. Previously, I{' '}
-        was an Instructor at the <a href="https://www.depts.ttu.edu/politicalscience/">Department of Political Science</a> at TTU,{' '}
+        <a href="https://www.ttu.edu/">Texas Tech University</a>. 
+      </p>
+      <p>
+        I was an Instructor at the{' '}
+        <a href="https://www.depts.ttu.edu/politicalscience/">Department of Political Science</a> at TTU,{' '}
         currently serving as Visiting Professor at the <a href="https://www.cs.usb.ve/">Department of Social Sciences</a> at USB.
       </p>
       <p>

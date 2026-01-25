@@ -14,10 +14,10 @@ const Index = () => (
       <header>
         <div className="title">
           <h2>
-            <Link to="/">Welcome to my site!</Link>
+            <Link to="/">print("Welcome to my site!")</Link>
           </h2>
           <p>
-            PhD in Political Science with a background in Data Science.
+            Data Scientist & Researcher | AI Engineering | Large-Scale Data Engineering & Causal Analytics
           </p>
         </div>
       </header>
