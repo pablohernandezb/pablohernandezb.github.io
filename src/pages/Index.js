@@ -17,8 +17,7 @@ const Index = () => (
             <Link to="/">print(&quot;Welcome to my site!&quot;)</Link>
           </h2>
           <p>
-            Data Scientist & Researcher | AI Engineering | Large-Scale Data{' '}
-            Engineering & Causal Analytics
+            AI Engineering | Large-Scale Data Engineering & Causal Analytics
           </p>
         </div>
       </header>
