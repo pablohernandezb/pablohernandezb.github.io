@@ -7,7 +7,7 @@ const Index = () => (
   <Main
     description={
       "Pablo Hernandez Borges's personal website. Data Scientist | "
-      + 'AI & ML Modeler.'
+      + 'Researcher | AI Engineer'
     }
   >
     <article className="post" id="index">
