@@ -3,6 +3,7 @@ const config = {
   moduleNameMapper: {
     '^.+\\.(css|less|scss)$': 'babel-jest',
     '^.+\\.md$': 'markdown-to-jsx',
+    '^.+\\.svg$': '<rootDir>/src/__mocks__/svg.js',
   },
   transform: {
     '^.+\\.(js|ts|tsx|jsx|mjs)$': require.resolve('babel-jest'),
