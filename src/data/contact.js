@@ -4,6 +4,7 @@ import { faOrcid } from '@fortawesome/free-brands-svg-icons/faOrcid';
 import { faXTwitter } from '@fortawesome/free-brands-svg-icons/faXTwitter';
 import { faBluesky } from '@fortawesome/free-brands-svg-icons/faBluesky';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
+import SubstackIcon from '../components/Contact/SubstackIcon';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
 
@@ -22,6 +23,11 @@ const data = [
     link: 'https://orcid.org/0000-0002-3147-1740',
     label: 'ORCID',
     icon: faOrcid,
+  },
+  {
+    link: 'https://substack.com/@pablohernandezb',
+    label: 'Substack',
+    icon: SubstackIcon,
   },
   {
     link: 'https://x.com/pablohernandezb',

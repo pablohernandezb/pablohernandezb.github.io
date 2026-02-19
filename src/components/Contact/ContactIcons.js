@@ -9,7 +9,11 @@ const ContactIcons = () => (
     {data.map((s) => (
       <li key={s.label}>
         <a href={s.link} aria-label={s.label}>
-          <FontAwesomeIcon icon={s.icon} transform="grow-3" />
+          {typeof s.icon === 'function' ? (
+            React.createElement(s.icon, { className: 'icon' })
+          ) : (
+            <FontAwesomeIcon className="icon" icon={s.icon} transform="grow-3" />
+          )}
         </a>
       </li>
     ))}
