@@ -2,7 +2,7 @@
 const data = [
   {
     title: 'Automated Regime Transformation Monitor',
-    link: 'https://github.com/pablohernandezb/umbral-project',
+    link: 'https://github.com/pablohernandezb/umbral-monitor',
     legend: 'Analytical platform monitoring regime transformation in Venezuela through real-time data visualization and expert scenario consensus.',
     image: '/images/projects/project_umbral.png',
     date: '2026-02-04',
