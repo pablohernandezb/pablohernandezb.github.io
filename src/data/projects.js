@@ -1,6 +1,39 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Automated Regime Transformation Monitor',
+    link: 'https://github.com/pablohernandezb/umbral-project',
+    legend: 'Analytical platform monitoring regime transformation in Venezuela through real-time data visualization and expert scenario consensus.',
+    image: '/images/projects/project_umbral.png',
+    date: '2026-02-04',
+    overview: 'Umbral is a high-tech monitoring platform designed to track and visualize the complex dynamics of regime transformation. '
+      + 'It aggregates fragmented data—from internet connectivity outages and GDELT media signals to political prisoner statistics—into a '
+      + 'cohesive dashboard. The project bridges the gap between raw data science and political analysis, providing stakeholders with '
+      + 'quantifiable metrics on potential transition scenarios.',
+    dataset: [
+      'Integrates multi-source data including IODA (Internet Outage Detection and Analysis) for real-time connectivity tracking.',
+      'Utilizes GDELT Project Big Data to monitor media instability, sentiment tone, and international attention volume.',
+      'Incorporates historical V-Dem (Varieties of Democracy) indices and the Democratic Episodes Event Dataset (DEED).',
+      'Aggregates expert and public sentiment via a Likert-scale survey system to track perceived scenario probabilities.',
+    ],
+    tech: [
+      'Built with Next.js 15 (App Router), TypeScript, and Tailwind CSS for a modern, responsive interface.',
+      'Backend powered by Supabase (PostgreSQL) with Row Level Security (RLS) and real-time subscriptions.',
+      'Implements a STAR (Score Then Automatic Runoff) voting algorithm to derive daily consensus from expert and citizen submissions.',
+      'Features a subnational Leaflet-based GIS dashboard with choropleth maps and horizon heatmaps for state-level analysis.',
+    ],
+    challenges: [
+      'Managing high-frequency data ingestion within Vercel’s 10-second serverless execution limit required implementing aggressive parallel fetch patterns and cron job spacing.',
+      'Developing a "Mock Mode" fallback system allowed for seamless development and testing without constant database dependency.',
+      'Normalizing disparate data sources (RSS feeds, X API, IODA, and GDELT) into a unified bilingual (ES/EN) schema.',
+    ],
+    retrospective: [
+      'This project highlights the necessity of real-time monitoring in volatile political contexts, where traditional static reports become obsolete quickly.',
+      'The inclusion of both expert and public "STAR voting" consensus panels successfully quantified the "vibe shift" in political expectations over time.',
+      'Future development could involve using Claude-based NLP to perform deeper automated sentiment analysis on the aggregated news feed beyond simple categorization.',
+    ],
+  },
+  {
     title: 'Dynamic Flow Explorer',
     link: 'https://github.com/pablohernandezb/sankey-diagram-alumnusb',
     legend: 'Interactive dashboard visualizing the cash flow and resource allocation of the USB Alumni Association (AlumnUSB).',
