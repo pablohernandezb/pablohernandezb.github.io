@@ -25,6 +25,7 @@
     "@fortawesome/free-regular-svg-icons": "^6.7.1",
     "@fortawesome/react-fontawesome": "0.2.2",
     "dayjs": "^1.11.13",
+    "flatted": "^3.4.0",
     "jest": "^29.7.0",
     "lightbox.js-react": "^1.4.2",
     "markdown-to-jsx": "^7.7.1",
@@ -36,7 +37,7 @@
     "react-ga4": "^2.1.0",
     "react-helmet-async": "^2.0.5",
     "react-router-dom": "^6.28.0",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "5.0.1",
     "ts-jest": "^29.2.5"
   },
   "devDependencies": {
@@ -54,8 +55,9 @@
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-jsx-a11y": "6.10.2",
     "eslint-plugin-react": "^7.37.2",
-    "jest-environment-jsdom": "^29.7.0",
-    "react-snap": "^1.23.0",
+    "flatted": "^3.4.0",
+    "jest-environment-jsdom": "^30.3.0",
+    "react-snap": "^1.13.1",
     "rimraf": "^6.0.1",
     "sass": "^1.81.0",
     "source-map-explorer": "^2.5.3"
